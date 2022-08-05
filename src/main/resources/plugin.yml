@@ -1,0 +1,9 @@
+name: AdventureBossBarsAndTitles
+version: '${project.version}'
+main: me.kodysimpson.adventurebossbarsandtitles.AdventureBossBarsAndTitles
+api-version: 1.18
+commands:
+  test:
+    description: Test command
+  check:
+    description: Check command
